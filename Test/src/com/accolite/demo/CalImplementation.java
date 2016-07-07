@@ -36,7 +36,7 @@ public class CalImplementation implements Calculator {
 		System.out.println("Enter a");
 		a = in.nextInt();
 		
-		System.out.println("Enter b");
+		System.out.println("Enter A");
 		b=in.nextInt();
 		
 		System.out.println("choice:\n1. Add\n2. Sub\n3. Mul\n4. Div\n");
